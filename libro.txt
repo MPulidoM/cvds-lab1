@@ -1,6 +1,6 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES:Mariana
+AUTORES:Mariana y Erika
 
 CAPITULO UNO
 
