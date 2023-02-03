@@ -6,7 +6,7 @@
 - **Lugar de Residencia:** Bogotá, Colombia
 # 2. ***Trayectoria Academica***
 - **Primaria-Bachillerato:** [*Colegio Pureza de María*](https://www.purezabogota.edu.co/)
-- **Pregrado Ingeniería de Sistemas: **[*Escuela Colombiana Ingienería*](https://www.escuelaing.edu.co/es/)
+- **Pregrado Ingeniería de Sistemas:** [*Escuela Colombiana Ingienería Julio Garavito*](https://www.escuelaing.edu.co/es/)
 > *Plan de estudios 14*
 # 3. ***Lenguajes Vistos***
 >PYTHON
@@ -44,7 +44,14 @@ public class SumaNumeros
 CREATE TABLE [database_name.] [schema_name.]
 ```
 # 4. ***Intereses***
-Tengo desde pequeña un apego con las mascotas, en especial con los perros, actualmente soy dueña de 2, una mestiza(cruce Schnauzer-Mestizo) llamada Luna de 7 años y un Golden Retriever llamado Junior de 1 año. En mis tiempos libres me dedico a la escritura y a estar con mis perros, para entrenarlos y sacarlos a jugar, además me gusta practicar mi idioma favorito que es el inglés,del cual he presentado dos examenes de clasifiación Cambridge, siendo actualmente B2./
+Tengo desde pequeña un apego con las mascotas, en especial con los perros, actualmente soy dueña de 2, una mestiza(cruce Schnauzer-Mestizo) llamada Luna de 7 años y un Golden Retriever llamado Junior de 1 año. En mis tiempos libres me dedico a la escritura y a estar con mis perros, para entrenarlos y sacarlos a jugar, además me gusta practicar mi idioma favorito que es el inglés,del cual he presentado dos examenes de clasificación Cambridge, siendo actualmente B2.
 A futuro ademas de ejercer Sistemas tengo como meta realizar una especialización en Educación, ya que tengo pasión por ser profesora tanto en Colegio como en universidad, ya que creo que la educación es aquella carrera que da camino a las otras por lo que deseo hacer esto en mi futuro y vida profesional.
 
 ![](Perros.PNG.jpeg)
+## _____________________________________________________________________________________________________
+# **GIT BRANCHING**
+## _____________________________________________________________________________________________________
+## ***MAIN***
+### **Mariana Pulido Moreno**
+### **No. Carnet: 2170283
+![](curso1.jpeg)
